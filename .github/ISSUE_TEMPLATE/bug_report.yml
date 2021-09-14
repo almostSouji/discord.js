@@ -27,7 +27,7 @@ body:
   - type: textarea
     id: codesample
     attributes:
-      label: Codesample
+      label: Code sample
       description: Include a reproducible, minimal code sample. This will be automatically formatted into code, so no need for backticks.
       render: javascript
   - type: input
